@@ -14,9 +14,12 @@ Tools I need as PHP developer
 
 
 ### optional
-* PHP (brew innstall php
+* PHP 
+´´ítem
+brew innstall php
+´´´
 * xdebug (https://xdebug.org/docs/install)
-* composer
+* [composer](https://getcomposer.org/download/) 
 * [Symfony Server](curl -sS https://get.symfony.com/cli/installer | bash)
 * [Slack](https://slack.com/intl/de-de/downloads/mac?geocode=de-de)
 * [Tunnelblick](https://tunnelblick.net/downloads.html)
